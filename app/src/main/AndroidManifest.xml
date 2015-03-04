@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lior.brainfinalproject" >
+
+    <application
+        android:name="com.example.lior.brainfinalproject.Global.TestApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/LightTheme" >
+        <activity
+            android:name="com.example.lior.brainfinalproject.NewTest"
+            android:label="@string/title_activity_new_test" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.lior.brainfinalproject.Section1"
+            android:label="@string/title_activity_section1" >
+        </activity>
+        <activity
+            android:name="com.example.lior.brainfinalproject.Section2"
+            android:label="@string/title_activity_section2" >
+        </activity>
+        <activity
+            android:name="com.example.lior.brainfinalproject.Section3"
+            android:label="@string/title_activity_section3" >
+        </activity>
+        <activity
+            android:name="com.example.lior.brainfinalproject.Section4"
+            android:label="@string/title_activity_section4" >
+        </activity>
+        <activity
+            android:name="com.example.lior.brainfinalproject.Section5"
+            android:label="@string/title_activity_section5" >
+        </activity>
+        <activity
+            android:name="com.example.lior.brainfinalproject.Section6"
+            android:label="@string/title_activity_section6" >
+        </activity>
+        <activity
+            android:name="com.example.lior.brainfinalproject.Section7"
+            android:label="@string/title_activity_section7" >
+        </activity>
+        <activity
+            android:name="com.example.lior.brainfinalproject.Section8"
+            android:label="@string/title_activity_section8" >
+        </activity>
+        <activity
+            android:name="com.example.lior.brainfinalproject.Results"
+            android:label="@string/title_activity_results" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BrainFinalProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_test">MMSE</string>
+    <string name="title_activity_section1">סעיף 1</string>
+    <string name="title_activity_section2">סעיף 2</string>
+    <string name="title_activity_section3">סעיף 3</string>
+    <string name="title_activity_section4">סעיף 4</string>
+    <string name="title_activity_section5">סעיף 5</string>
+    <string name="title_activity_section6">סעיף 6</string>
+    <string name="title_activity_section7">סעיף 7</string>
+    <string name="title_activity_section8">סעיף 8</string>
+    <string name="newTestInstructions">הזן תעודת זהות</string>
+    <string name="section1Instructions">הזן את התאריך</string>
+    <string name="section2Instructions">הזן את מיקומך</string>
+    <string name="section3Instructions">זכור את המילים שיופיעו פה</string>
+    <string name="section4Instructions">רשום את מה שמופיע בתמונות</string>
+    <string name="section5Instructions">רשום את המילים שהופיעו בסעיף 3</string>
+    <string name="section6Instructions">החסר 7 מהמספר הנתון</string>
+    <string name="section7Instructions">רשום את השעה הנקובה</string>
+    <string name="section8Instructions">רשום את השעה המצוינת בשעון</string>
+
+    <string-array name="Days">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="Months">
+        <item>ינואר</item>
+        <item>פברואר</item>
+        <item>מרץ</item>
+        <item>אפריל</item>
+        <item>מאי</item>
+        <item>יוני</item>
+        <item>יולי</item>
+        <item>אוגוסט</item>
+        <item>ספטמבר</item>
+        <item>אוקטובר</item>
+        <item>נובמבר</item>
+        <item>דצמבר</item>
+    </string-array>
+    <string-array name="Years">
+        <item>2010</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+    </string-array>
+    <string-array name="Seasons">
+        <item>קיץ</item>
+        <item>חורף</item>
+        <item>סתיו</item>
+        <item>אביב</item>
+    </string-array>
+    <string-array name="Countries">
+        <item>רוסיה</item>
+        <item>קנדה</item>
+        <item>ארצות הברית</item>
+        <item>דנמרק</item>
+        <item>שוודיה</item>
+        <item>יפן</item>
+        <item>סין</item>
+        <item>צרפת</item>
+        <item>ספרד</item>
+        <item>פורטוגל</item>
+        <item>בריטניה</item>
+        <item>שוויץ</item>
+        <item>ישראל</item>
+        <item>ירדן</item>
+        <item>מצרים</item>
+        <item>לבנון</item>
+        <item>אוסטרליה</item>
+        <item>דרום אפריקה</item>
+        <item>אנטרקטיקה</item>
+    </string-array>
+    <string-array name="Cities">
+        <item>מטולה</item>
+        <item>קרית שמונה</item>
+        <item>נהריה</item>
+        <item>עכו</item>
+        <item>צפת</item>
+        <item>טבריה</item>
+        <item>עפולה</item>
+        <item>חיפה</item>
+        <item>קרית ים</item>
+        <item>קרית ביאליק</item>
+        <item>קרית מוצקין</item>
+        <item>קרית אתא</item>
+        <item>קיסריה</item>
+        <item>חדרה</item>
+        <item>נתניה</item>
+        <item>הרצליה</item>
+        <item>תל אביב</item>
+        <item>רמת גן</item>
+        <item>חולון</item>
+        <item>בת ים</item>
+        <item>ראשון לציון</item>
+        <item>נס ציונה</item>
+        <item>רחובות</item>
+        <item>אשדוד</item>
+        <item>אשקלון</item>
+        <item>באר שבע</item>
+        <item>אילת</item>
+    </string-array>
+    <string-array name="Floors">
+        <item>קרקע</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+
+    <string name="title_activity_results">תוצאות</string>
+
+</resources>
